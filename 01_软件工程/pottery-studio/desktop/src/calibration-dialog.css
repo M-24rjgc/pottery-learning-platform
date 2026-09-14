@@ -1,0 +1,20 @@
+.modal.calibration-dialog{width:min(1050px,96vw);max-width:1050px;padding:28px 32px;max-height:94dvh;overflow:auto}
+.calibration-dialog>h2{padding-right:35px;margin-bottom:8px}
+.quick-cal-steps{display:flex;gap:22px;list-style:none;padding:0;margin:24px 0}
+.quick-cal-steps li{display:flex;align-items:center;gap:8px;color:#7e8680}
+.quick-cal-steps b{display:grid;place-items:center;border-radius:50%;width:28px;height:28px;border:1px solid #d5ddd0}
+.quick-cal-steps .current{color:#315d48;font-weight:600}.quick-cal-steps .current b{background:#3f715b;color:white;border-color:#3f715b}
+.quick-cal-grid{display:grid;grid-template-columns:300px minmax(0,1fr);gap:28px}
+.quick-cal-pose{padding:18px;background:#f0f1e9;border-radius:14px;text-align:center}
+.quick-cal-pose>img{width:100%;height:210px;object-fit:contain;border-radius:10px}
+.quick-cal-pose h3{margin:16px 0 10px}.quick-cal-pose p{line-height:1.8;color:#606f64;margin-bottom:15px}
+.quick-cal-pose>button{margin-top:8px}.quick-cal-pair{display:flex}.quick-cal-pair img{width:50%;height:190px;object-fit:contain}
+.quick-cal-data{min-width:0}.quick-cal-data .sensor-chart{height:250px;margin-top:20px}
+.quick-cal-values{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}
+.quick-cal-values>div{background:#f5f4ed;border:1px solid #e4e6db;border-radius:10px;padding:14px 6px;text-align:center}
+.quick-cal-values span{display:flex;align-items:center;justify-content:center;gap:5px;font-size:12px}.quick-cal-values span i{width:6px;height:6px;border-radius:50%}
+.quick-cal-values strong{display:block;font-size:26px;font-variant-numeric:tabular-nums;margin:12px 0}
+.quick-cal-track{height:6px;border-radius:5px;background:#e4e6dc;overflow:hidden}.quick-cal-track i{display:block;height:100%}
+.quick-cal-message{padding:12px 15px;background:#e9eee3;border-radius:8px;margin:20px 0 12px;line-height:1.8;overflow-wrap:anywhere}
+.quick-cal-success{display:flex;align-items:center;justify-content:center;gap:8px;color:#3f715b!important}
+@media(max-width:800px){.calibration-dialog{padding:22px 18px}.quick-cal-grid{grid-template-columns:1fr}.quick-cal-pose>img{height:150px}.quick-cal-pair img{height:130px}.quick-cal-steps{gap:12px;font-size:12px}.quick-cal-values strong{font-size:22px}.quick-cal-data{grid-row:1}.quick-cal-data .sensor-chart{height:170px}}

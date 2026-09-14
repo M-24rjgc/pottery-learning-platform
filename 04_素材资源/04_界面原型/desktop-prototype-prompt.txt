@@ -1,0 +1,22 @@
+Use case: ui-mockup. Generate one high-resolution polished desktop application UI design for the existing Chinese pottery learning product “非遗之手”. The attached mobile design is a STYLE REFERENCE ONLY: carry over its warm ivory, muted celadon green, charcoal text, restrained terracotta accents, Chinese typographic refinement and photography, but create a NEW desktop workstation, NOT mobile screens or a resized mobile design. This is a design image, not implementation.
+
+OUTPUT: a single large landscape 16:10 desktop workstation screen, front-on orthographic, edge-to-edge UI, crisp readable simplified Chinese labels, no monitor frame, no perspective, no presentation-board decorations, no exterior slogans. Make the interface usable and realistic with careful spacing, coherent navigation, thin dividers, understated rounded white panels and near-flat celadon primary buttons. Avoid the shiny gradient buttons of the reference. Use a small serif brand heading and modern Chinese sans serif for functional text.
+
+PRODUCT CONTEXT: the existing physical glove outputs five finger sensor sampling values; hardware team already has a serial-connected PC tool, user calibration, correct/incorrect pose template recording, tolerance, save/load. This desktop workstation should visually upgrade that actual workflow and pair with a learner-facing mini program. Do not invent complex school administration, billing, student rankings, certified AI accuracy or VR systems.
+
+LAYOUT:
+A slim fixed left sidebar 190px equivalent with a simple ceramic vessel line icon, brand “非遗之手”, smaller text “陶艺教学工作台”. Navigation items with refined line icons “训练工作台” selected, “设备与校准”, “手势管理”, “学习记录”, “设置”. Bottom subtle profile “教学人员” and “帮助中心”.
+
+Header across main area: page title “训练工作台”, subline “揉泥基础 · 实时练习”. Right two small separated status pills: “手套已连接” green dot and “小程序待连接” neutral dot. This is a plausible sample UI state, not a verification claim. Small date “9月11日”.
+
+Compact horizontal session toolbar directly under header, with fields “练习项目” selected “揉泥基础”, “校准档案” selected “当前学习者”, compact text “练习中 02:36”, secondary outlined button “暂停练习” and filled celadon primary button “结束并生成报告”.
+
+Main central content arranged in 2 columns approximately 65% / 35%:
+LEFT TOP major panel “手指传感数据”. Five colored line legend exactly “拇指 食指 中指 无名指 小指”. Large elegant scientifically plausible five-trace time-series chart, X axis “时间（秒）” from 0 to 20, Y axis “采样值” from 500 to 2500. Five colored traces with smooth transition movements, based conceptually on real finger flex sensor streams, not meaningless random spikes. Palette muted coral, ochre, sage, blue gray, mauve. Small controls “最近20秒” and “导出数据” in panel header. Beneath graph five small evenly spaced labeled readings “拇指 1825”, “食指 1645”, “中指 1301”, “无名指 1383”, “小指 1299”, each same color as its legend. These are illustrative screen contents and must NOT be labeled mock/sample in the image.
+RIGHT TOP a panel “动作示范” with a photographic 16:9 still of bare human hands kneading grey pottery clay on a wood bench, play icon and restrained video scrub bar. Label below “揉泥基础 · 参考视频”. Clearly a reference lesson video, NOT a live camera stream; do not add skeleton tracking or camera-live label.
+RIGHT MIDDLE feedback panel title “当前反馈” with small green icon and large text “姿态匹配”, short text “手指状态与已录入参考姿态接近”. Compact two-row status “匹配模板 正确手势 02” and “保持时长 2.4 秒”. A small sound icon and toggle “语音提示”. Do not display a made-up confidence percentage or craft skill score.
+
+LEFT BOTTOM broad panel “本次练习”. Three compact metrics “练习时长 02:36”, “完成次数 6次”, “匹配次数 4次”. A horizontal session timeline mostly celadon with short terracotta spans, legend “姿态匹配 / 需要调整”. Below two recent event rows with times, e.g. “02:32 姿态匹配 · 正确手势 02”, “02:18 需要调整 · 手指姿态偏离参考”. No verbose log console.
+RIGHT BOTTOM compact panel “设备快捷操作”, text “陶艺手套 · COM9”, links or icon buttons “重新校准”, “管理手势”, “查看设备”. Brief unintrusive line “更换佩戴者后请重新校准”.
+
+At the bottom of main content, a thin useful footer status “数据接收正常” with green dot, and neutral text “记录自动保存”, aligned and unobtrusive. All screen regions must fit without clipping or visual congestion. The interface should feel like a refined professional tool for actual pottery instructors that can be implemented today. Use precise legible Chinese. Never display “演示”, “模拟”, “原型”, “测试环境”, “MOCK”, “DEMO”, “AI生成”, numbered callouts, backend architecture, futuristic holograms or a fake accuracy certification. No smartphone screen included.

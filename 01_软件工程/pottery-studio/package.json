@@ -1,0 +1,1 @@
+{"name":"pottery-studio","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test tests/*.test.mjs","build":"npm --prefix desktop run build && npm --prefix mobile run build","dev":"node launch.mjs"},"dependencies":{"serialport":"13.0.0"}}

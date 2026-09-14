@@ -1,0 +1,9 @@
+{
+  "appId": "cn.pottery.glove.companion",
+  "appName": "非遗之手",
+  "webDir": "dist",
+  "backgroundColor": "#f7f5ef",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#f7f5ef", "allowMixedContent": true },
+  "plugins": { "SystemBars": { "style": "LIGHT", "initialViewportFitValueHint": "cover" } }
+}

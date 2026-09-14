@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">非遗之手</string>
+    <string name="title_activity_main">非遗之手</string>
+    <string name="package_name">cn.pottery.glove.companion</string>
+    <string name="custom_url_scheme">cn.pottery.glove.companion</string>
+</resources>

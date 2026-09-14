@@ -1,6 +1,7 @@
 node_modules/
 python-deps/
 tooldeps/
+.demo/
 dist/
 .toolchain/
 .gradle/

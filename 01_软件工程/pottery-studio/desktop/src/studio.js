@@ -1,5 +1,5 @@
 import {useEffect,useState} from 'react';
-export const API=`${location.protocol}//${location.hostname}:4180`,ART='/art/';
+export const API=import.meta.env.VITE_API_ORIGIN||`${location.protocol}//${location.hostname}:4180`,ART='/art/';
 export const names=['拇指','食指','中指','无名指','小指'],colors=['#c56a46','#dca24b','#4f886d','#6797b6','#a280ac'];
 export const fmt=(s=0)=>`${Math.floor(s/60).toString().padStart(2,'0')}:${Math.floor(s%60).toString().padStart(2,'0')}`;
 export const date=t=>new Date(t).toLocaleString('zh-CN',{month:'long',day:'numeric',hour:'2-digit',minute:'2-digit'});

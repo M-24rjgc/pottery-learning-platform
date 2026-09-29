@@ -1,0 +1,1929 @@
+{
+  "reports": [
+    {
+      "id": "365189f1-e371-41ed-b833-8ebac944364a",
+      "lesson": "揉泥基础",
+      "learner": "陶艺学习者",
+      "startedAt": 1789377383013,
+      "paused": false,
+      "pauseMs": 0,
+      "pauseAt": 0,
+      "sampleCount": 175,
+      "matchedSamples": 58,
+      "matches": 2,
+      "source": "ble",
+      "rawLog": "365189f1-e371-41ed-b833-8ebac944364a.jsonl",
+      "endedAt": 1789377418001,
+      "duration": 34,
+      "notes": "",
+      "timeline": [
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 2,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 5,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 8,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": true
+        },
+        {
+          "elapsed": 10,
+          "matched": true
+        },
+        {
+          "elapsed": 10,
+          "matched": true
+        },
+        {
+          "elapsed": 11,
+          "matched": true
+        },
+        {
+          "elapsed": 12,
+          "matched": true
+        },
+        {
+          "elapsed": 12,
+          "matched": true
+        },
+        {
+          "elapsed": 13,
+          "matched": true
+        },
+        {
+          "elapsed": 13,
+          "matched": true
+        },
+        {
+          "elapsed": 14,
+          "matched": true
+        },
+        {
+          "elapsed": 15,
+          "matched": true
+        },
+        {
+          "elapsed": 15,
+          "matched": true
+        },
+        {
+          "elapsed": 16,
+          "matched": true
+        },
+        {
+          "elapsed": 16,
+          "matched": true
+        },
+        {
+          "elapsed": 17,
+          "matched": true
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 20,
+          "matched": false
+        },
+        {
+          "elapsed": 21,
+          "matched": false
+        },
+        {
+          "elapsed": 21,
+          "matched": false
+        },
+        {
+          "elapsed": 22,
+          "matched": false
+        },
+        {
+          "elapsed": 22,
+          "matched": false
+        },
+        {
+          "elapsed": 23,
+          "matched": false
+        },
+        {
+          "elapsed": 24,
+          "matched": false
+        },
+        {
+          "elapsed": 24,
+          "matched": false
+        },
+        {
+          "elapsed": 25,
+          "matched": false
+        },
+        {
+          "elapsed": 25,
+          "matched": false
+        },
+        {
+          "elapsed": 26,
+          "matched": false
+        },
+        {
+          "elapsed": 27,
+          "matched": false
+        },
+        {
+          "elapsed": 27,
+          "matched": true
+        },
+        {
+          "elapsed": 28,
+          "matched": true
+        },
+        {
+          "elapsed": 28,
+          "matched": true
+        },
+        {
+          "elapsed": 29,
+          "matched": true
+        },
+        {
+          "elapsed": 30,
+          "matched": true
+        },
+        {
+          "elapsed": 30,
+          "matched": false
+        },
+        {
+          "elapsed": 31,
+          "matched": false
+        },
+        {
+          "elapsed": 31,
+          "matched": false
+        },
+        {
+          "elapsed": 32,
+          "matched": false
+        },
+        {
+          "elapsed": 33,
+          "matched": false
+        },
+        {
+          "elapsed": 33,
+          "matched": false
+        },
+        {
+          "elapsed": 34,
+          "matched": false
+        },
+        {
+          "elapsed": 34,
+          "matched": false
+        }
+      ],
+      "ratio": 33
+    },
+    {
+      "id": "b3938349-aaad-4b55-a6de-9667ff7fcb5a",
+      "lesson": "揉泥基础",
+      "learner": "陶艺学习者",
+      "startedAt": 1789377327106,
+      "paused": false,
+      "pauseMs": 0,
+      "pauseAt": 0,
+      "sampleCount": 186,
+      "matchedSamples": 59,
+      "matches": 2,
+      "source": "ble",
+      "rawLog": "b3938349-aaad-4b55-a6de-9667ff7fcb5a.jsonl",
+      "endedAt": 1789377364312,
+      "duration": 37,
+      "notes": "",
+      "timeline": [
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 2,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": true
+        },
+        {
+          "elapsed": 5,
+          "matched": true
+        },
+        {
+          "elapsed": 6,
+          "matched": true
+        },
+        {
+          "elapsed": 7,
+          "matched": true
+        },
+        {
+          "elapsed": 8,
+          "matched": true
+        },
+        {
+          "elapsed": 8,
+          "matched": true
+        },
+        {
+          "elapsed": 9,
+          "matched": true
+        },
+        {
+          "elapsed": 10,
+          "matched": true
+        },
+        {
+          "elapsed": 11,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 13,
+          "matched": false
+        },
+        {
+          "elapsed": 14,
+          "matched": false
+        },
+        {
+          "elapsed": 15,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 17,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 20,
+          "matched": false
+        },
+        {
+          "elapsed": 20,
+          "matched": false
+        },
+        {
+          "elapsed": 21,
+          "matched": false
+        },
+        {
+          "elapsed": 22,
+          "matched": false
+        },
+        {
+          "elapsed": 23,
+          "matched": false
+        },
+        {
+          "elapsed": 24,
+          "matched": true
+        },
+        {
+          "elapsed": 24,
+          "matched": true
+        },
+        {
+          "elapsed": 25,
+          "matched": true
+        },
+        {
+          "elapsed": 26,
+          "matched": true
+        },
+        {
+          "elapsed": 27,
+          "matched": true
+        },
+        {
+          "elapsed": 28,
+          "matched": true
+        },
+        {
+          "elapsed": 28,
+          "matched": false
+        },
+        {
+          "elapsed": 29,
+          "matched": false
+        },
+        {
+          "elapsed": 30,
+          "matched": false
+        },
+        {
+          "elapsed": 31,
+          "matched": false
+        },
+        {
+          "elapsed": 32,
+          "matched": false
+        },
+        {
+          "elapsed": 32,
+          "matched": false
+        },
+        {
+          "elapsed": 33,
+          "matched": false
+        },
+        {
+          "elapsed": 34,
+          "matched": false
+        },
+        {
+          "elapsed": 35,
+          "matched": false
+        },
+        {
+          "elapsed": 36,
+          "matched": false
+        },
+        {
+          "elapsed": 36,
+          "matched": false
+        }
+      ],
+      "ratio": 32
+    },
+    {
+      "id": "f05fa3be-2341-430d-ade2-20a43425ce84",
+      "lesson": "揉泥基础",
+      "learner": "陶艺学习者",
+      "startedAt": 1789377239210,
+      "paused": false,
+      "pauseMs": 0,
+      "pauseAt": 0,
+      "sampleCount": 250,
+      "matchedSamples": 78,
+      "matches": 3,
+      "source": "ble",
+      "rawLog": "f05fa3be-2341-430d-ade2-20a43425ce84.jsonl",
+      "endedAt": 1789377289340,
+      "duration": 50,
+      "notes": "",
+      "timeline": [
+        {
+          "elapsed": 0,
+          "matched": true
+        },
+        {
+          "elapsed": 1,
+          "matched": true
+        },
+        {
+          "elapsed": 2,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 5,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 8,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": false
+        },
+        {
+          "elapsed": 10,
+          "matched": false
+        },
+        {
+          "elapsed": 11,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 13,
+          "matched": false
+        },
+        {
+          "elapsed": 14,
+          "matched": false
+        },
+        {
+          "elapsed": 15,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 17,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 20,
+          "matched": false
+        },
+        {
+          "elapsed": 21,
+          "matched": false
+        },
+        {
+          "elapsed": 22,
+          "matched": true
+        },
+        {
+          "elapsed": 23,
+          "matched": true
+        },
+        {
+          "elapsed": 24,
+          "matched": true
+        },
+        {
+          "elapsed": 25,
+          "matched": true
+        },
+        {
+          "elapsed": 26,
+          "matched": true
+        },
+        {
+          "elapsed": 27,
+          "matched": true
+        },
+        {
+          "elapsed": 28,
+          "matched": true
+        },
+        {
+          "elapsed": 29,
+          "matched": true
+        },
+        {
+          "elapsed": 30,
+          "matched": true
+        },
+        {
+          "elapsed": 31,
+          "matched": true
+        },
+        {
+          "elapsed": 32,
+          "matched": false
+        },
+        {
+          "elapsed": 33,
+          "matched": false
+        },
+        {
+          "elapsed": 34,
+          "matched": false
+        },
+        {
+          "elapsed": 35,
+          "matched": false
+        },
+        {
+          "elapsed": 36,
+          "matched": false
+        },
+        {
+          "elapsed": 37,
+          "matched": false
+        },
+        {
+          "elapsed": 38,
+          "matched": false
+        },
+        {
+          "elapsed": 39,
+          "matched": true
+        },
+        {
+          "elapsed": 40,
+          "matched": true
+        },
+        {
+          "elapsed": 41,
+          "matched": true
+        },
+        {
+          "elapsed": 42,
+          "matched": true
+        },
+        {
+          "elapsed": 43,
+          "matched": true
+        },
+        {
+          "elapsed": 44,
+          "matched": false
+        },
+        {
+          "elapsed": 45,
+          "matched": false
+        },
+        {
+          "elapsed": 46,
+          "matched": false
+        },
+        {
+          "elapsed": 47,
+          "matched": false
+        },
+        {
+          "elapsed": 48,
+          "matched": false
+        },
+        {
+          "elapsed": 49,
+          "matched": false
+        }
+      ],
+      "ratio": 31
+    },
+    {
+      "id": "339a0fa4-6319-418f-9dee-ba39c757d09a",
+      "lesson": "揉泥基础",
+      "learner": "陶艺学习者",
+      "startedAt": 1789376998673,
+      "paused": false,
+      "pauseMs": 0,
+      "pauseAt": 0,
+      "sampleCount": 284,
+      "matchedSamples": 0,
+      "matches": 0,
+      "source": "ble",
+      "rawLog": "339a0fa4-6319-418f-9dee-ba39c757d09a.jsonl",
+      "endedAt": 1789377055590,
+      "duration": 56,
+      "notes": "",
+      "timeline": [
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 2,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 5,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 8,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": false
+        },
+        {
+          "elapsed": 10,
+          "matched": false
+        },
+        {
+          "elapsed": 11,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 13,
+          "matched": false
+        },
+        {
+          "elapsed": 14,
+          "matched": false
+        },
+        {
+          "elapsed": 15,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 17,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 20,
+          "matched": false
+        },
+        {
+          "elapsed": 21,
+          "matched": false
+        },
+        {
+          "elapsed": 22,
+          "matched": false
+        },
+        {
+          "elapsed": 23,
+          "matched": false
+        },
+        {
+          "elapsed": 24,
+          "matched": false
+        },
+        {
+          "elapsed": 25,
+          "matched": false
+        },
+        {
+          "elapsed": 26,
+          "matched": false
+        },
+        {
+          "elapsed": 27,
+          "matched": false
+        },
+        {
+          "elapsed": 28,
+          "matched": false
+        },
+        {
+          "elapsed": 29,
+          "matched": false
+        },
+        {
+          "elapsed": 30,
+          "matched": false
+        },
+        {
+          "elapsed": 31,
+          "matched": false
+        },
+        {
+          "elapsed": 32,
+          "matched": false
+        },
+        {
+          "elapsed": 33,
+          "matched": false
+        },
+        {
+          "elapsed": 34,
+          "matched": false
+        },
+        {
+          "elapsed": 35,
+          "matched": false
+        },
+        {
+          "elapsed": 36,
+          "matched": false
+        },
+        {
+          "elapsed": 37,
+          "matched": false
+        },
+        {
+          "elapsed": 38,
+          "matched": false
+        },
+        {
+          "elapsed": 39,
+          "matched": false
+        },
+        {
+          "elapsed": 40,
+          "matched": false
+        },
+        {
+          "elapsed": 41,
+          "matched": false
+        },
+        {
+          "elapsed": 42,
+          "matched": false
+        },
+        {
+          "elapsed": 43,
+          "matched": false
+        },
+        {
+          "elapsed": 44,
+          "matched": false
+        },
+        {
+          "elapsed": 45,
+          "matched": false
+        },
+        {
+          "elapsed": 46,
+          "matched": false
+        },
+        {
+          "elapsed": 47,
+          "matched": false
+        },
+        {
+          "elapsed": 48,
+          "matched": false
+        },
+        {
+          "elapsed": 49,
+          "matched": false
+        },
+        {
+          "elapsed": 50,
+          "matched": false
+        },
+        {
+          "elapsed": 51,
+          "matched": false
+        },
+        {
+          "elapsed": 52,
+          "matched": false
+        },
+        {
+          "elapsed": 53,
+          "matched": false
+        },
+        {
+          "elapsed": 54,
+          "matched": false
+        },
+        {
+          "elapsed": 55,
+          "matched": false
+        },
+        {
+          "elapsed": 56,
+          "matched": false
+        }
+      ],
+      "ratio": 0
+    },
+    {
+      "id": "26befad4-7705-439b-b72d-1c0663395e49",
+      "lesson": "揉泥基础",
+      "learner": "陶艺学习者",
+      "startedAt": 1789376952580,
+      "paused": false,
+      "pauseMs": 0,
+      "pauseAt": 0,
+      "sampleCount": 168,
+      "matchedSamples": 0,
+      "matches": 0,
+      "source": "ble",
+      "rawLog": "26befad4-7705-439b-b72d-1c0663395e49.jsonl",
+      "endedAt": 1789376986146,
+      "duration": 33,
+      "notes": "",
+      "timeline": [
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 2,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 5,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 8,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": false
+        },
+        {
+          "elapsed": 10,
+          "matched": false
+        },
+        {
+          "elapsed": 10,
+          "matched": false
+        },
+        {
+          "elapsed": 11,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 13,
+          "matched": false
+        },
+        {
+          "elapsed": 13,
+          "matched": false
+        },
+        {
+          "elapsed": 14,
+          "matched": false
+        },
+        {
+          "elapsed": 15,
+          "matched": false
+        },
+        {
+          "elapsed": 15,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 17,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 20,
+          "matched": false
+        },
+        {
+          "elapsed": 21,
+          "matched": false
+        },
+        {
+          "elapsed": 21,
+          "matched": false
+        },
+        {
+          "elapsed": 22,
+          "matched": false
+        },
+        {
+          "elapsed": 22,
+          "matched": false
+        },
+        {
+          "elapsed": 23,
+          "matched": false
+        },
+        {
+          "elapsed": 24,
+          "matched": false
+        },
+        {
+          "elapsed": 24,
+          "matched": false
+        },
+        {
+          "elapsed": 25,
+          "matched": false
+        },
+        {
+          "elapsed": 25,
+          "matched": false
+        },
+        {
+          "elapsed": 26,
+          "matched": false
+        },
+        {
+          "elapsed": 27,
+          "matched": false
+        },
+        {
+          "elapsed": 27,
+          "matched": false
+        },
+        {
+          "elapsed": 28,
+          "matched": false
+        },
+        {
+          "elapsed": 28,
+          "matched": false
+        },
+        {
+          "elapsed": 29,
+          "matched": false
+        },
+        {
+          "elapsed": 30,
+          "matched": false
+        },
+        {
+          "elapsed": 30,
+          "matched": false
+        },
+        {
+          "elapsed": 31,
+          "matched": false
+        },
+        {
+          "elapsed": 31,
+          "matched": false
+        },
+        {
+          "elapsed": 32,
+          "matched": false
+        },
+        {
+          "elapsed": 33,
+          "matched": false
+        }
+      ],
+      "ratio": 0
+    },
+    {
+      "id": "8011b815-1387-4054-98da-49308cdcd1ac",
+      "lesson": "揉泥基础",
+      "learner": "陶艺学习者",
+      "startedAt": 1789376793260,
+      "paused": false,
+      "pauseMs": 0,
+      "pauseAt": 0,
+      "sampleCount": 186,
+      "matchedSamples": 0,
+      "matches": 0,
+      "source": "ble",
+      "rawLog": "8011b815-1387-4054-98da-49308cdcd1ac.jsonl",
+      "endedAt": 1789376830415,
+      "duration": 37,
+      "notes": "",
+      "timeline": [
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 2,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 5,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 8,
+          "matched": false
+        },
+        {
+          "elapsed": 8,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": false
+        },
+        {
+          "elapsed": 10,
+          "matched": false
+        },
+        {
+          "elapsed": 11,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 13,
+          "matched": false
+        },
+        {
+          "elapsed": 14,
+          "matched": false
+        },
+        {
+          "elapsed": 15,
+          "matched": false
+        },
+        {
+          "elapsed": 15,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 17,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 20,
+          "matched": false
+        },
+        {
+          "elapsed": 20,
+          "matched": false
+        },
+        {
+          "elapsed": 21,
+          "matched": false
+        },
+        {
+          "elapsed": 22,
+          "matched": false
+        },
+        {
+          "elapsed": 23,
+          "matched": false
+        },
+        {
+          "elapsed": 23,
+          "matched": false
+        },
+        {
+          "elapsed": 24,
+          "matched": false
+        },
+        {
+          "elapsed": 25,
+          "matched": false
+        },
+        {
+          "elapsed": 26,
+          "matched": false
+        },
+        {
+          "elapsed": 27,
+          "matched": false
+        },
+        {
+          "elapsed": 27,
+          "matched": false
+        },
+        {
+          "elapsed": 28,
+          "matched": false
+        },
+        {
+          "elapsed": 29,
+          "matched": false
+        },
+        {
+          "elapsed": 30,
+          "matched": false
+        },
+        {
+          "elapsed": 31,
+          "matched": false
+        },
+        {
+          "elapsed": 32,
+          "matched": false
+        },
+        {
+          "elapsed": 32,
+          "matched": false
+        },
+        {
+          "elapsed": 33,
+          "matched": false
+        },
+        {
+          "elapsed": 34,
+          "matched": false
+        },
+        {
+          "elapsed": 35,
+          "matched": false
+        },
+        {
+          "elapsed": 35,
+          "matched": false
+        },
+        {
+          "elapsed": 36,
+          "matched": false
+        }
+      ],
+      "ratio": 0
+    },
+    {
+      "id": "d5ffc007-5b0a-4e75-a4a9-eb0394785817",
+      "lesson": "揉泥基础",
+      "learner": "陶艺学习者",
+      "startedAt": 1789376737370,
+      "paused": true,
+      "pauseMs": 0,
+      "pauseAt": 1789376757715,
+      "sampleCount": 101,
+      "matchedSamples": 0,
+      "matches": 0,
+      "source": "ble",
+      "rawLog": "d5ffc007-5b0a-4e75-a4a9-eb0394785817.jsonl",
+      "endedAt": 1789376766807,
+      "duration": 20,
+      "notes": "",
+      "timeline": [
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 2,
+          "matched": false
+        },
+        {
+          "elapsed": 2,
+          "matched": false
+        },
+        {
+          "elapsed": 2,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 4,
+          "matched": false
+        },
+        {
+          "elapsed": 5,
+          "matched": false
+        },
+        {
+          "elapsed": 5,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 6,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 8,
+          "matched": false
+        },
+        {
+          "elapsed": 8,
+          "matched": false
+        },
+        {
+          "elapsed": 8,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": false
+        },
+        {
+          "elapsed": 10,
+          "matched": false
+        },
+        {
+          "elapsed": 10,
+          "matched": false
+        },
+        {
+          "elapsed": 10,
+          "matched": false
+        },
+        {
+          "elapsed": 11,
+          "matched": false
+        },
+        {
+          "elapsed": 11,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 13,
+          "matched": false
+        },
+        {
+          "elapsed": 13,
+          "matched": false
+        },
+        {
+          "elapsed": 14,
+          "matched": false
+        },
+        {
+          "elapsed": 14,
+          "matched": false
+        },
+        {
+          "elapsed": 14,
+          "matched": false
+        },
+        {
+          "elapsed": 15,
+          "matched": false
+        },
+        {
+          "elapsed": 15,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 17,
+          "matched": false
+        },
+        {
+          "elapsed": 17,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": false
+        },
+        {
+          "elapsed": 20,
+          "matched": false
+        }
+      ],
+      "ratio": 0
+    },
+    {
+      "id": "76f23abd-f730-4ce2-aacb-43cde3f94307",
+      "lesson": "揉泥基础",
+      "learner": "陶艺学习者",
+      "startedAt": 1789376701536,
+      "paused": true,
+      "pauseMs": 0,
+      "pauseAt": 1789376709989,
+      "sampleCount": 0,
+      "matchedSamples": 0,
+      "matches": 0,
+      "source": null,
+      "rawLog": "76f23abd-f730-4ce2-aacb-43cde3f94307.jsonl",
+      "endedAt": 1789376711430,
+      "duration": 8,
+      "notes": "",
+      "timeline": [],
+      "ratio": null
+    },
+    {
+      "id": "a2f71dec-056b-4a18-a66e-c6ec2b36f564",
+      "lesson": "揉泥基础",
+      "learner": "陶艺学习者",
+      "startedAt": 1789318817410,
+      "paused": false,
+      "pauseMs": 1434,
+      "pauseAt": 1789318913064,
+      "sampleCount": 481,
+      "matchedSamples": 134,
+      "matches": 1,
+      "source": "ble",
+      "rawLog": "a2f71dec-056b-4a18-a66e-c6ec2b36f564.jsonl",
+      "endedAt": 1789318915025,
+      "duration": 96,
+      "notes": "实物联调验证：蓝牙真实数据，软件张开参考，握拳退出匹配，暂停不累计。不是陶艺专业训练成绩。",
+      "timeline": [
+        {
+          "elapsed": 0,
+          "matched": false
+        },
+        {
+          "elapsed": 1,
+          "matched": false
+        },
+        {
+          "elapsed": 3,
+          "matched": false
+        },
+        {
+          "elapsed": 5,
+          "matched": false
+        },
+        {
+          "elapsed": 7,
+          "matched": false
+        },
+        {
+          "elapsed": 9,
+          "matched": false
+        },
+        {
+          "elapsed": 10,
+          "matched": false
+        },
+        {
+          "elapsed": 12,
+          "matched": false
+        },
+        {
+          "elapsed": 14,
+          "matched": false
+        },
+        {
+          "elapsed": 16,
+          "matched": false
+        },
+        {
+          "elapsed": 18,
+          "matched": false
+        },
+        {
+          "elapsed": 19,
+          "matched": true
+        },
+        {
+          "elapsed": 21,
+          "matched": true
+        },
+        {
+          "elapsed": 23,
+          "matched": true
+        },
+        {
+          "elapsed": 25,
+          "matched": true
+        },
+        {
+          "elapsed": 27,
+          "matched": true
+        },
+        {
+          "elapsed": 28,
+          "matched": true
+        },
+        {
+          "elapsed": 30,
+          "matched": true
+        },
+        {
+          "elapsed": 32,
+          "matched": true
+        },
+        {
+          "elapsed": 34,
+          "matched": true
+        },
+        {
+          "elapsed": 36,
+          "matched": true
+        },
+        {
+          "elapsed": 37,
+          "matched": true
+        },
+        {
+          "elapsed": 39,
+          "matched": true
+        },
+        {
+          "elapsed": 41,
+          "matched": true
+        },
+        {
+          "elapsed": 43,
+          "matched": true
+        },
+        {
+          "elapsed": 45,
+          "matched": true
+        },
+        {
+          "elapsed": 46,
+          "matched": false
+        },
+        {
+          "elapsed": 48,
+          "matched": false
+        },
+        {
+          "elapsed": 50,
+          "matched": false
+        },
+        {
+          "elapsed": 52,
+          "matched": false
+        },
+        {
+          "elapsed": 54,
+          "matched": false
+        },
+        {
+          "elapsed": 55,
+          "matched": false
+        },
+        {
+          "elapsed": 57,
+          "matched": false
+        },
+        {
+          "elapsed": 59,
+          "matched": false
+        },
+        {
+          "elapsed": 61,
+          "matched": false
+        },
+        {
+          "elapsed": 63,
+          "matched": false
+        },
+        {
+          "elapsed": 64,
+          "matched": false
+        },
+        {
+          "elapsed": 66,
+          "matched": false
+        },
+        {
+          "elapsed": 68,
+          "matched": false
+        },
+        {
+          "elapsed": 70,
+          "matched": false
+        },
+        {
+          "elapsed": 72,
+          "matched": false
+        },
+        {
+          "elapsed": 73,
+          "matched": false
+        },
+        {
+          "elapsed": 75,
+          "matched": false
+        },
+        {
+          "elapsed": 77,
+          "matched": false
+        },
+        {
+          "elapsed": 79,
+          "matched": false
+        },
+        {
+          "elapsed": 81,
+          "matched": false
+        },
+        {
+          "elapsed": 82,
+          "matched": false
+        },
+        {
+          "elapsed": 84,
+          "matched": false
+        },
+        {
+          "elapsed": 86,
+          "matched": false
+        },
+        {
+          "elapsed": 88,
+          "matched": false
+        },
+        {
+          "elapsed": 90,
+          "matched": false
+        },
+        {
+          "elapsed": 91,
+          "matched": false
+        },
+        {
+          "elapsed": 93,
+          "matched": false
+        },
+        {
+          "elapsed": 95,
+          "matched": false
+        }
+      ],
+      "ratio": 28
+    }
+  ],
+  "templates": [
+    {
+      "id": "c7f99470-049e-4d6f-a168-e66e30cdf2b3",
+      "name": "按压",
+      "lesson": "揉泥基础",
+      "kind": "correct",
+      "tolerance": 100,
+      "values": [
+        642,
+        706,
+        500,
+        2169,
+        2068
+      ],
+      "at": 1789376945507
+    },
+    {
+      "id": "2c19b2a6-7ce3-4476-9a2a-8ffeda1c970c",
+      "name": "自然张开",
+      "lesson": "揉泥基础",
+      "kind": "correct",
+      "tolerance": 300,
+      "values": [
+        2500,
+        500,
+        2500,
+        2500,
+        2500
+      ],
+      "at": 1789377227040
+    }
+  ],
+  "calibration": {
+    "learner": "陶艺学习者",
+    "fist": [
+      775,
+      648,
+      575,
+      837,
+      779
+    ],
+    "open": [
+      2500,
+      2500,
+      2500,
+      2500,
+      2500
+    ],
+    "completed": true,
+    "at": 1789376899772,
+    "source": "hardware",
+    "mappedEndpoints": true
+  },
+  "settings": {
+    "voice": true,
+    "tolerance": 100,
+    "learner": "陶艺学习者",
+    "baudRate": 115200,
+    "serviceUUID": "",
+    "notifyUUID": "",
+    "writeUUID": ""
+  }
+}

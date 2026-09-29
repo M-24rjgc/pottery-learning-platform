@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>非遗之手·触控传承 — 项目主页</title>
+<meta name="description" content="非遗之手·触控传承：面向非遗陶艺技艺的动作数字化记忆与标准化实操教学平台。电脑教学工作台、手机端、微信小程序与安卓学习助手。">
+<style>
+:root{
+  --ink:#20302a; --muted:#5d6f66; --line:#e2ded6; --bg:#faf7f2; --card:#ffffff;
+  --green:#2f5d4a; --green-soft:#e8f0ea; --clay:#c56a46; --clay-soft:#f7ece5;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;
+  line-height:1.75;-webkit-font-smoothing:antialiased}
+a{color:var(--green);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:1080px;margin:0 auto;padding:0 22px}
+
+header.top{position:sticky;top:0;z-index:20;background:rgba(250,247,242,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
+.brand{font-weight:700;letter-spacing:.5px}
+.brand span{color:var(--clay)}
+nav a{margin-left:20px;font-size:14.5px;color:var(--muted)}
+nav a:hover{color:var(--green)}
+
+.hero{padding:74px 0 56px;border-bottom:1px solid var(--line);
+  background:radial-gradient(1100px 380px at 78% -12%,var(--green-soft) 0%,transparent 62%),
+             radial-gradient(760px 320px at 8% 6%,var(--clay-soft) 0%,transparent 58%)}
+.tagrow{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
+.tag{font-size:12.5px;padding:4px 12px;border-radius:999px;background:var(--green-soft);color:var(--green);border:1px solid #cfe0d5}
+.tag.clay{background:var(--clay-soft);color:#a04f2e;border-color:#ecd6c9}
+h1{font-size:clamp(30px,5.2vw,46px);line-height:1.24;margin:0 0 6px;letter-spacing:-.5px}
+h1 em{font-style:normal;color:var(--green)}
+.sub{font-size:clamp(16px,2.1vw,19px);color:var(--muted);margin:0 0 30px;max-width:46em}
+.cta{display:flex;flex-wrap:wrap;gap:12px}
+.btn{display:inline-block;padding:12px 24px;border-radius:11px;font-size:15px;font-weight:600;border:1px solid transparent}
+.btn.primary{background:var(--green);color:#fff}
+.btn.primary:hover{background:#274c3d;text-decoration:none}
+.btn.ghost{background:#fff;color:var(--green);border-color:var(--line)}
+.btn.ghost:hover{border-color:#bcd3c6;text-decoration:none}
+.hint{margin-top:16px;font-size:13px;color:var(--muted)}
+
+section{padding:58px 0;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+h2{font-size:24px;margin:0 0 8px;letter-spacing:-.2px}
+.lead{color:var(--muted);margin:0 0 30px;max-width:52em}
+h3{font-size:17px;margin:0 0 8px}
+
+.grid{display:grid;gap:18px}
+.g3{grid-template-columns:repeat(auto-fit,minmax(268px,1fr))}
+.g4{grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:15px;padding:22px 22px 20px}
+.card p{margin:6px 0 0;color:var(--muted);font-size:14.5px}
+.card .k{font-size:12px;font-weight:700;letter-spacing:1.4px;color:var(--clay);text-transform:uppercase}
+
+.shots{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}
+.shot{background:var(--card);border:1px solid var(--line);border-radius:15px;overflow:hidden}
+.shot img{display:block;width:100%;height:auto;border-bottom:1px solid var(--line);background:#f2efe9}
+.shot .cap{padding:13px 17px;font-size:13.5px;color:var(--muted)}
+.shot .cap b{color:var(--ink);font-weight:600}
+
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;font-size:14.5px}
+th,td{text-align:left;padding:13px 17px;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:#f4f1eb;font-weight:600;font-size:13.5px;color:var(--muted)}
+tr:last-child td{border-bottom:0}
+td code{background:#f4f1eb;padding:1px 6px;border-radius:5px;font-size:13px}
+
+.note{background:var(--clay-soft);border:1px solid #ecd6c9;border-radius:14px;padding:20px 22px;color:#7d4327;font-size:14.5px}
+.note b{color:#a04f2e}
+.note ul{margin:9px 0 0;padding-left:20px}
+.note li{margin:4px 0}
+
+ul.plain{margin:0;padding-left:20px;color:var(--muted);font-size:14.5px}
+ul.plain li{margin:5px 0}
+
+footer{padding:38px 0 54px;color:var(--muted);font-size:13.5px}
+footer .wrap{display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand">非遗之手<span>·</span>触控传承</div>
+    <nav>
+      <a href="#system">系统</a>
+      <a href="#shots">界面</a>
+      <a href="#run">运行</a>
+      <a href="./demo/">在线演示</a>
+      <a href="https://github.com/M-24rjgc/pottery-learning-platform">源码</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <div class="tagrow">
+      <span class="tag">2026 中国国际大学生创新大赛 · 高教主赛道</span>
+      <span class="tag clay">开封官瓷</span>
+      <span class="tag clay">动作数字化</span>
+    </div>
+    <h1>把非遗匠人的<em>手感</em>，<br>变成可以练习和比对的数据</h1>
+    <p class="sub">
+      面向非遗陶艺技艺的教学平台：体感手套采集五路手指弯曲数据，传承人的标准动作录成参考模板，
+      学习者在电脑工作台或手机端练习时实时比对、逐指纠偏，练习过程与报告完整留档。
+    </p>
+    <div class="cta">
+      <a class="btn primary" href="./demo/">打开在线演示</a>
+      <a class="btn ghost" href="https://github.com/M-24rjgc/pottery-learning-platform">查看源码仓库</a>
+    </div>
+    <p class="hint">在线演示无需安装：界面与业务逻辑为工作台真实代码，手套数据为合成演示数据。</p>
+  </div>
+</div>
+
+<section id="system">
+  <div class="wrap">
+    <h2>系统组成</h2>
+    <p class="lead">一套以电脑主机为中心的软硬件协同系统：手套负责采集，主机负责比对与留档，手机端负责随身查看与协同。</p>
+    <div class="grid g4">
+      <div class="card"><div class="k">采集</div><h3>体感手套</h3><p>五路柔性弯曲传感器，映射为 500–2500 的五指采样值，经 BLE 蓝牙实时上报。</p></div>
+      <div class="card"><div class="k">核心</div><h3>电脑工作台</h3><p>校准、参考录入、姿态比对、实时曲线、练习报告与数据导出。</p></div>
+      <div class="card"><div class="k">移动</div><h3>手机端 / 小程序</h3><p>查看主机状态、控制练习、同步报告；小程序可独立使用本机存储。</p></div>
+      <div class="card"><div class="k">交付</div><h3>安卓学习助手</h3><p>独立安装包，连接同一台电脑主机，离线可查看最近同步的报告。</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="shots">
+  <div class="wrap">
+    <h2>界面实拍</h2>
+    <p class="lead">以下为软件实际运行截图。手套数值与报告为演示数据，界面为真实渲染结果。</p>
+    <div class="shots">
+      <div class="shot">
+        <img src="./assets/workbench.png" alt="电脑端训练工作台：五指曲线、动作示范与练习概览">
+        <div class="cap"><b>电脑工作台 · 训练页</b><br>五路实时曲线、动作示范视频、当前反馈与本次练习统计。</div>
+      </div>
+      <div class="shot">
+        <img src="./assets/calibration.png" alt="校准弹窗：图示、实时读数与曲线">
+        <div class="cap"><b>设备与校准</b><br>握拳与张开端点采集，逐指检查变化是否合理后保存。</div>
+      </div>
+      <div class="shot">
+        <img src="./assets/app-home.png" alt="安卓端首页">
+        <div class="cap"><b>安卓助手 · 首页</b><br>设备就绪状态与练习入口。</div>
+      </div>
+      <div class="shot">
+        <img src="./assets/app-report.png" alt="安卓端学习报告">
+        <div class="cap"><b>安卓助手 · 学习报告</b><br>练习时长、采集帧数、匹配次数与匹配时间线。</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="run">
+  <div class="wrap">
+    <h2>运行方式</h2>
+    <div class="note">
+      <b>这不是一个公网服务。</b>工作台的会话、报告与手套连接都在那台电脑上，因此除在线演示外，正常工作台需要在电脑上运行，手机端与电脑处于同一局域网。
+      <ul>
+        <li>电脑端：运行后打开 <code>http://localhost:4180</code></li>
+        <li>手机端：与电脑同一 Wi‑Fi，访问电脑的局域网地址加 4180 端口</li>
+        <li>手套：通过蓝牙连接电脑主机，无需在手机上配对</li>
+        <li>账号、鉴权与公网部署尚未实现，服务面向可信的本机与局域网</li>
+      </ul>
+    </div>
+    <div style="height:26px"></div>
+    <table>
+      <tr><th style="width:150px">环节</th><th>当前状态</th></tr>
+      <tr><td>电脑工作台</td><td>校准、参考录入、容差比对、持续匹配计数、报告与 JSON/CSV 导出，已完整可用</td></tr>
+      <tr><td>手套接入</td><td>蓝牙连接真实手套，五路数据、模式查询与往返切换、断开重连、校准与保存均有实物验证</td></tr>
+      <tr><td>手机端 / 小程序</td><td>手机网页端已可用；微信原生工程已就绪，尚未用正式 AppID 在真机编译验证</td></tr>
+      <tr><td>安卓助手</td><td>0.2.0 安装包可安装使用（内部 debug 签名，未上架）</td></tr>
+      <tr><td>自动化测试</td><td>电脑端 26 项、App 端 8 项，共 34 项离线测试通过</td></tr>
+      <tr><td>时序动作识别</td><td>当前为五路静态姿态比对，完整揉泥动作的时序识别在研发中</td></tr>
+      <tr><td>视觉链路</td><td>摄像头识别程序已归档，尚未接入工作台；视频区域播放教学参考视频</td></tr>
+    </table>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div>非遗之手·触控传承 · 河南大学</div>
+    <div><a href="https://github.com/M-24rjgc/pottery-learning-platform">GitHub 仓库</a> · <a href="./demo/">在线演示</a></div>
+  </div>
+</footer>
+
+</body>
+</html>

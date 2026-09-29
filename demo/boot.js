@@ -128,12 +128,15 @@ import { Studio } from './engine.js';
   };
 
   // ---------- 把根绝对路径改成子路径（GitHub Pages 子目录部署） ----------
-  const fix = v => (v && v.startsWith('/') && !v.startsWith('//') && !v.startsWith('/api/')) ? SITE + v.slice(1) : v;
+  // 只处理尚未带站点前缀的根绝对路径，避免重复渲染时被二次加前缀
+  const needFix = v => !!v && v.startsWith('/') && !v.startsWith('//')
+    && !v.startsWith('/api/') && !v.startsWith(SITE);
+  const fix = v => needFix(v) ? SITE + v.slice(1) : v;
   function rewriteNode(el) {
     if (!el || el.nodeType !== 1) return;
     for (const attr of ['src', 'href', 'poster']) {
       const v = el.getAttribute && el.getAttribute(attr);
-      if (v && v.startsWith('/') && !v.startsWith('/api/')) el.setAttribute(attr, SITE + v.slice(1));
+      if (needFix(v)) el.setAttribute(attr, SITE + v.slice(1));
     }
     if (el.querySelectorAll) el.querySelectorAll('[src],[href],[poster]').forEach(rewriteNode);
   }
@@ -143,11 +146,15 @@ import { Studio } from './engine.js';
     const a = e.target.closest && e.target.closest('a');
     if (!a) return;
     const href = a.getAttribute('href') || '';
-    if (href.includes(':4180') || href === '/mobile/' || href.endsWith('/mobile/')) {
+    if (href.includes('/api/session-log')) {
+      e.preventDefault();
+      alert('在线演示不提供原始日志下载。\n本地工作台运行时可从报告页直接导出本次会话的 jsonl 日志。');
+      return;
+    }
+    if (href.includes(':4180') || href.endsWith('/mobile/')) {
       e.preventDefault();
       location.href = href.includes('/mobile/') ? DEMO + 'mobile/' : SITE;
     }
-    if (href.startsWith('/api/session-log')) { e.preventDefault(); alert('在线演示不提供原始日志下载。\n本地工作台运行时可从报告页直接导出本次会话的 jsonl 日志。'); }
   }, true);
 
   // ---------- 演示横幅 ----------
